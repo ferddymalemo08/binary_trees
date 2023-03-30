@@ -258,18 +258,10 @@ Function Prototypes
 
 ## Authors
 <details>
-    <summary>Suara Ayomide</summary>
+    <summary>Ferdinand Malemo</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
-    </ul>
-</details>
-<details>
-    <summary>Jozinna Chioma</summary>
-    <ul>
-    <li><a href="https://www.github.com/chioma2000">Github</a></li>
-    <li><a href="https://www.twitter.com/jozinnachioma">Twitter</a></li>
-    <li><a href="mailto:chichipeace2000@yahoo.ca">e-mail</a></li>
+    <li><a href="https://github.com/ferddymalemo08">Github</a></li>
+    <li><a href="https://www.twitter.com/ferddymalemo08">Twitter</a></li>
+    <li><a href="mailto:ferddymalemo08@yahoo.com">e-mail</a></li>
     </ul>
 </details>
